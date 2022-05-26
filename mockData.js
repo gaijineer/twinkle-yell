@@ -1,3 +1,5 @@
+// TODO Delete this comment
+
 function getRandNum(max) {
   return Math.floor(Math.random() * max);
 }
